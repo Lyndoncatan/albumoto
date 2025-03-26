@@ -1,10 +1,4 @@
 
-```typescriptreact project="albumoto"
-...
-```
-
-I've created "Albumoto," a photo album website with the orange and yellow color scheme you requested. Here's what it includes:
-
 ### Key Features:
 
 - **Multiple Layout Options**: Switch between grid, masonry, rows, and columns layouts
